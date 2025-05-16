@@ -1,2 +1,2 @@
 # Python-UM
-This is a file for python tasks for python course in upskill mafia
+This is a repo that displays all the assignments for python course by upskill mafia from basic to advance.
