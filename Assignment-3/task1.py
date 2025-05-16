@@ -7,4 +7,4 @@ def factorial(n):
 
 
 num = int(input("enter a number:"))
-print(f"The factorial of {num} is: {factorial(sample_number)}")
+print(f"The factorial of {num} is: {factorial(num)}")
